@@ -1,0 +1,13 @@
+setup.py
+genomic/__init__.py
+genomic/genomic.py
+genomic/test_genomic.py
+genomic/tools/__init__.py
+genomic/tools/tool.py
+genomic/tools/__init__.py
+genomic/tools/tool.py
+my_genomic.egg-info/PKG-INFO
+my_genomic.egg-info/SOURCES.txt
+my_genomic.egg-info/dependency_links.txt
+my_genomic.egg-info/entry_points.txt
+my_genomic.egg-info/top_level.txt
